@@ -42,7 +42,7 @@ shuffle(orderRange);
 blocks.forEach((block, index) => {
   block.style.order = orderRange[index];
   block.addEventListener("click", () => {
-    filpped(block);
+    filpped(block);checked(block[0],block[1])
   });
 });
 
