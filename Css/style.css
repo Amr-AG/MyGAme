@@ -9,7 +9,7 @@
 body {
   font-family: "Courier New", Courier, monospace;
   text-transform: capitalize;
-  background-image: url("../imgs/background.jpg");
+  background-image: url("../imgs/background.webp");
   background-repeat: repeat;
   background-size: cover;
 }
@@ -30,7 +30,7 @@ input:focus {
   position: fixed;
   top: 0;
   left: 0;
-  background-image: url("../imgs/first.jpg");
+  background-image: url("../imgs/Game.webp");
   background-repeat: repeat;
   background-size: cover;
   z-index: 2;
